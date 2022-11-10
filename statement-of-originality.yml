@@ -1,0 +1,22 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+code:
+  - comment: reference library, the parameters of certain library functions
+    url: https://p5js.org/reference/
+    licence: public
+
+assets:
+  - comment: Chinese pattern background; background of my name tag was inspired by this pattern
+    url: https://www.stockunlimited.com/vector-illustration/chinese-pattern-background_1577039.html 
+    licence: standard license content
+
+# sign *your* name and uid here
+name: lydia huang
+uid: u7298641 
